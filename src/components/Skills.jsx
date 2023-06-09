@@ -6,8 +6,8 @@ import Javascript from "../assets/javascript.png";
 import ReactImg from "../assets/react.png";
 import Node from "../assets/node.png";
 import Redux from "../assets/redux.png";
-import Sequelize from "../assets/sequelize.png";
 import PostgreSQL from "../assets/postgresql.png";
+import Typescript from "../assets/typescript.png";
 
 const Skills = () => {
   return (
@@ -59,10 +59,10 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
               className="w-20 mx-auto"
-              src={Sequelize}
+              src={Typescript}
               alt="Sequelize icon"
             />
-            <p className="my-2">Sequelize</p>
+            <p className="my-4">Typescript</p>
           </div>
         </div>
       </div>
