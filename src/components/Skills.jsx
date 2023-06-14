@@ -1,7 +1,7 @@
 import React from "react";
 
 import HTML from "../assets/html.png";
-import CSS from "../assets/css.png";
+import NextJS from "../assets/nextjs.png";
 import Javascript from "../assets/javascript.png";
 import ReactImg from "../assets/react.png";
 import Node from "../assets/node.png";
@@ -19,22 +19,18 @@ const Skills = () => {
           </p>
           <p className="py-4">\\ These are the technologies I've worked with</p>
         </div>
+        <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+          <img
+            className="w-20 mx-auto"
+            src={Javascript}
+            alt="Javascript icon"
+          />
+          <p className="my-4">Javascript</p>
+        </div>
         <div className="w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8">
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={HTML} alt="HTML icon" />
             <p className="my-4">HTML</p>
-          </div>
-          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={CSS} alt="CSS icon" />
-            <p className="my-4">CSS</p>
-          </div>
-          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img
-              className="w-20 mx-auto"
-              src={Javascript}
-              alt="Javascript icon"
-            />
-            <p className="my-4">Javascript</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={ReactImg} alt="React icon" />
@@ -47,6 +43,10 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Node} alt="Node icon" />
             <p className="my-4">Node.js</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={NextJS} alt="CSS icon" />
+            <p className="my-4">Next.js</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
