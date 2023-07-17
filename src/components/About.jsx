@@ -21,17 +21,17 @@ const About = () => {
           </div>
           <div>
             <p>
-              After working for nearly a decade as an advertising professional,
-              I'm seeking a new challenge in programming, leveraging a decade of
-              cultivating strong interpersonal skills, effective communication,
-              and a customer-focused mindset to deliver innovative solutions. I
-              love growing relationships in a professional environment and I
-              want to work with a team to create great things. My passion for
-              logic and problem-solving has lead me to seek out something
-              further in line with what excites me. While I feel as though the
-              advertising field could never quite fulfill me in that regard, I'm
-              eager to get my software engineering career under way so I can
-              scratch those itches while being part of a team!
+              I have worked for close to a decade as an advertising
+              professional. After going through a Software Engineering Boot Camp
+              at Fullstack Academy, I'm seeking a new challenge that can combine
+              my strong interpersonal skills, effective communication, and a
+              customer-focused mindset with my love of programming. I love
+              growing relationships in a professional environment and I want to
+              work with a team to create great things. My passion for logic and
+              problem-solving has lead me to seek out something further in line
+              with what excites me. I'm eager to integrate my newfound software
+              engineering skills into my work so I can scratch those itches
+              while being part of a passionate team!
             </p>
           </div>
         </div>
