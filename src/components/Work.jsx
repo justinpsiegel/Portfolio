@@ -22,13 +22,13 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                Venari (Currently Re-Deploying)
+                Venari
               </span>
               <div className="pt-8 text-center">
                 <a
                   rel="noreferrer"
                   target="_blank"
-                  href="https://venari.onrender.com/"
+                  href="https://capstone-c28o.onrender.com/"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     See Project
